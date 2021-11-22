@@ -19,6 +19,7 @@ Possuo experiência com Python ,JavaScript, Java, HTML e CSS.
   <img align="center" alt="Maica-HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Maica-CSS" height="30" width="90" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
 </div>
+![Snake animation](https://github.com/maicatheus/maicatheus/blob/output/github-contribution-grid-snake.svg)
 
 
 
