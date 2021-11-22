@@ -1,16 +1,15 @@
-### Hi there 👋
+### Alô, sou Matheus Maica! 👋
 
-<!--
-**maicatheus/maicatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entrei no mundo dos programas pois minha preguiça diária me fazia querer automatizar tudo!
 
-Here are some ideas to get you started:
+Trabalho automatizando envio de notas ficais e opero um microscópio eletrônico de transmissão (MET) no Centro de Microscopia e Microanálise da UFRGS (CMM-UFRGS).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Possuo experiência com HTML, CSS, JavaScript, Java e python.
+
+<div align="center">
+  <a href="https://github.com/maicatheus">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=maicatheus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicatheus&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+
