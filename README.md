@@ -2,7 +2,7 @@
 
 Entrei no mundo dos programas pois minha preguiça diária me fazia querer automatizar tudo!
 
-Trabalho automatizando envio de notas ficais e opero um microscópio eletrônico de transmissão (MET) no Centro de Microscopia e Microanálise da UFRGS (CMM-UFRGS).
+Trabalho automatizando envio de notas ficais para um ecomerce e opero um microscópio eletrônico de transmissão (MET) no Centro de Microscopia e Microanálise da UFRGS (CMM-UFRGS).
 
 Possuo experiência com Python ,JavaScript, Java, HTML e CSS.
 ##
