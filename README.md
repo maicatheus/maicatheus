@@ -9,8 +9,8 @@ Possuo experiência com Python ,JavaScript, Java, HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/maicatheus">
-  <img height="1500em" src="https://github-readme-stats.vercel.app/api?username=maicatheus&show_icons=true&theme=swift &include_all_commits=true&count_private=true"/>
-  <img height="1500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicatheus&layout=compact&langs_count=7&theme=swift "/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maicatheus&show_icons=true&theme=swift &include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicatheus&layout=compact&langs_count=7&theme=swift "/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Maica-Python" height="30" width="90" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
