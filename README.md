@@ -1,8 +1,5 @@
 
 ### Alô, meu nome é Matheus Maica! 👋 
-
-Entrei no mundo dos programas pois minha preguiça diária me fazia querer automatizar tudo!
-
 <div align="center">
   <a href="https://github.com/maicatheus">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maicatheus&show_icons=true&theme=swift &include_all_commits=true&count_private=true"/>
