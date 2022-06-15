@@ -1,5 +1,7 @@
+
 ### Alô, meu nome é Matheus Maica! 👋 
-##
+
+Entrei no mundo dos programas pois minha preguiça diária me fazia querer automatizar tudo!
 
 <div align="center">
   <a href="https://github.com/maicatheus">
