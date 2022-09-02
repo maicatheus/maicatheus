@@ -1,5 +1,9 @@
 
-### Alô, meu nome é Matheus Maica! 👋 
+<h2>
+  <p align='center'> 
+    Alô, meu nome é Matheus Maica! 👋 
+  </p>
+</h1>  
 <div align="center">
   <a href="https://github.com/maicatheus">
   <p align='center'>
